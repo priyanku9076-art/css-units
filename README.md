@@ -1,4 +1,3 @@
-# css-units
 # CSS Units, Box Models, and Fonts
 
 A simple, responsive webpage layout built using pure HTML5 and CSS3 to practice viewport units, box-sizing, custom typography, and layout constraints without using Flexbox or positioning.
